@@ -1,0 +1,7 @@
+path: C:\Users\lenovo\PycharmProjects\kitap_projesi\Dataset\SplitData
+train: ../train/images
+val: ../val/images
+test: ../test/images
+
+nc: 1
+names: ['Drone']
